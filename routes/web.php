@@ -12,6 +12,5 @@
 */
 
 
-Route::get("/","WebController@");
-Route::get("/","WebController@");
-Route::get("/","WebController@");
+Route::get("/","WebController@homeGym");
+

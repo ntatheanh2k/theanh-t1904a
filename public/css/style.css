@@ -1,0 +1,232 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+    /*font-size: 14px;*/
+}
+body {
+    font-family: 'Maven Pro', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+
+}
+ul.home li{
+    list-style: none;
+    float: left;
+    padding: 30px 0 0 30px  ;
+
+}
+ul.home li a{
+    font-size: 25px;
+    text-transform: capitalize; /*dùng để viết hoa chữ cái đầu dòng*/
+}
+
+.row_banner{
+    display: flex;
+    background: url('../bai_tap_buoi_5/images/bg-banner.png');
+    color: white;
+    line-height: 30px;
+    padding: 10px 20px 0 20px;
+    margin-top: 10px;
+}
+.row_banner .banner_left{
+    text-align: left;
+    padding-top: 35px;
+}
+.row_banner .banner_left h2{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.row_banner .banner_left a{
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 12px 30px 12px 30px;
+    font-weight: 600;
+    background: #136ebf;
+    border-radius: 30px;
+    border-bottom: 5px solid #024886;
+}
+
+.row_banner .banner_right{
+    text-align: right;
+    padding-top: 35px;
+}
+.row_banner .banner_right h2{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.row_banner .banner_right a{
+    text-transform: uppercase;
+    font-size: 13px;
+    padding: 12px 30px 12px 30px;
+    font-weight: 600;
+    background: white;
+    border-radius: 30px;
+    border-bottom: 5px solid #136ebf;
+    color: #136ebf;
+}
+
+.row-search{
+    display:flex;
+    justify-content: space-between;
+    background: #136ebf;
+    padding: 15px 0 15px 0;
+}
+.row-search p{
+    font-size: 18px;
+    padding: 10px 0 0 20px;
+    color: white;
+}
+.row-search .search{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    position: relative;
+    padding-top: 5px;
+}
+
+.row-search .search .search_trong{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    font-size: 20px;
+}
+.row-search .search i{
+    position: absolute;
+    top: 10px;
+    right:58px;
+    font-size: 20px;
+}
+#email{
+    padding-left: 20px;
+}
+.colum{
+    display: flex;
+    justify-content: space-between;
+}
+.colum .colum_left{
+    width: calc(100% - 330px);
+}
+.colum .colum_left .clothing {
+    margin-top: 20px;
+    width: 159px;
+    height: 35px;
+    background: #136ebf;
+    position: relative;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: bold;
+}
+.colum .colum_left .clothing .text{
+    width:150px;
+    height: 30px;
+    background: white;
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+
+}
+.colum .colum_left .product{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+.colum .colum_left .product p{
+    font-size: 15px;
+}
+
+.colum .colum_left .product .item{
+    margin-top: 15px;
+}
+.colum .colum_left .product .item .text{
+    width: 80px;
+    height: 30px;
+    background: #136ebf;
+    /*text-align: center;*/
+    margin: auto;
+    padding-top: 5px;
+    color: white;
+    border-radius: 10px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.whey_protein .clothing .text{
+    font-size: 20px;
+}
+.whey_protein.product{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.whey_protein .product .item_whey{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0 0 10px;
+}
+.whey_protein .product .item_whey .info{
+    padding-top: 30px;
+}
+.whey_protein .product .item_whey .info .text{
+    width: 80px;
+    height:30px;
+    background: #136ebf;
+    border-radius: 10px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    text-transform: capitalize;
+    margin: auto;
+    color: white;
+    padding-top: 5px;
+}
+.news .clothing .text{
+    font-size: 20px;
+}
+.news .holiday .protein {
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.news .holiday .protein .shakes p{
+    width: 530px;
+}
+.container .colum_right {
+    /*float: right;*/
+    width: calc(100%- 850px);
+}
+.container-full{
+    width: 100%;
+    margin: 0 auto;
+    background: #136ebf;
+    margin: 30px 0 30px 0;
+}
+.container-full .logo-footer{
+    padding-top: 30px;
+    display: block;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+

@@ -8,13 +8,8 @@ use \Illuminate\Http\Request;
 
 class WebController
 {
-    public function homefoods(){
-        return view('');
+    public function homeGym(){
+        return view('index');
     }
-    public function shop(){
-        return view('');
-    }
-    public function productDetail(){
-        return view('');
-    }
+
 }
