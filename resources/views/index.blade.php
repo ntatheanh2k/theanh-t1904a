@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
-    <link rel="stylesheet" type="text/css" href="css/bai_tap_buoi_5/style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 
 </head>
     <body>
     <div class="container"> <!--header-->
         <div class="row">
-            <a href="#"><img src="css/bai_tap_buoi_5/images/logo.png" alt="logo"></a>
+            <a href="#"><img src="images/logo.png" alt="logo"></a>
             <div class="menu">
                 <ul class="home">
                     <li><a href="#">home</a></li>
@@ -34,7 +34,7 @@
                 <a href="#">find our more</a>
             </div>
 
-            <img src="css/bai_tap_buoi_5/images/banner.png" alt="banner">
+            <img src="images/banner.png" alt="banner">
 
             <div class="banner_right">
                 <h2>lorem ipsum dolor sit amet.</h2>
@@ -66,7 +66,7 @@
 
                 <div class="product">
                     <div class="item">
-                        <img src="css/bai_tap_buoi_5/images/01.png" alt="">
+                        <img src="images/01.png" alt="">
                         <p>drop armhole tank</p>
                         <h3>20.00$</h3>
                         <div class="text">
@@ -74,7 +74,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="css/bai_tap_buoi_5/images/02.png" alt="">
+                        <img src="images/02.png" alt="">
                         <p>drop armhole tank</p>
                         <h3>20.00$</h3>
                         <div class="text">
@@ -82,7 +82,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="css/bai_tap_buoi_5/images/03.png" alt="">
+                        <img src="images/03.png" alt="">
                         <p>drop armhole tank</p>
                         <h3>20.00$</h3>
                         <div class="text">
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="css/bai_tap_buoi_5/images/04.png" alt="">
+                        <img src="images/04.png" alt="">
                         <p>drop armhole tank</p>
                         <h3>20.00$</h3>
                         <div class="text">
@@ -98,7 +98,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="css/bai_tap_buoi_5/images/05.png" alt="">
+                        <img src="images/05.png" alt="">
                         <p>drop armhole tank</p>
                         <h3>20.00$</h3>
                         <div class="text">
@@ -106,7 +106,7 @@
                         </div>
                     </div>
                     <div class="item">
-                        <img src="css/bai_tap_buoi_5/images/06.png" alt="">
+                        <img src="images/06.png" alt="">
                         <p>drop armhole tank</p>
                         <h3>20.00$</h3>
                         <div class="text">
@@ -126,7 +126,7 @@
 
                     <div class="product">
                         <div class="item_whey">
-                            <img src="css/bai_tap_buoi_5/images/07.png" alt="">
+                            <img src="images/07.png" alt="">
                             <div class="info">
                                 <p>Optimun Nutrition Gold Standard 100% Whey Protein</p>
                                 <h3>45.00$</h3>
@@ -137,7 +137,7 @@
                         </div>
 
                         <div class="item_whey">
-                            <img src="css/bai_tap_buoi_5/images/07.png" alt="">
+                            <img src="images/07.png" alt="">
                             <div class="info">
                                 <p>Optimun Nutrition Gold Standard 100% Whey Protein</p>
                                 <h3>45.00$</h3>
@@ -148,7 +148,7 @@
                         </div>
 
                         <div class="item_whey">
-                            <img src="css/bai_tap_buoi_5/images/07.png" alt="">
+                            <img src="images/07.png" alt="">
                             <div class="info">
                                 <p>Optimun Nutrition Gold Standard 100% Whey Protein</p>
                                 <h3>45.00$</h3>
@@ -159,7 +159,7 @@
                         </div>
 
                         <div class="item_whey">
-                            <img src="css/bai_tap_buoi_5/images/07.png" alt="">
+                            <img src="images/07.png" alt="">
                             <div class="info">
                                 <p>Optimun Nutrition Gold Standard 100% Whey Protein</p>
                                 <h3>45.00$</h3>
@@ -182,7 +182,7 @@
 
                     <div class="holiday">
                         <div class="protein">
-                            <img src="css/bai_tap_buoi_5/images/11.png" alt="">
+                            <img src="images/11.png" alt="">
                             <div class="shakes">
                                 <h3><a href="#">Holyday Dessert protein shakes</a></h3>
                                 <h5>02/12/2019 -- 19:53</h5>
@@ -193,7 +193,7 @@
                         </div>
 
                         <div class="protein">
-                            <img src="css/bai_tap_buoi_5/images/12.png" alt="">
+                            <img src="images/12.png" alt="">
                             <div class="shakes">
                                 <h3><a href="#">Holyday Dessert protein shakes</a></h3>
                                 <h5>02/12/2019 -- 19:53</h5>
@@ -204,7 +204,7 @@
                         </div>
 
                         <div class="protein">
-                            <img src="css/bai_tap_buoi_5/images/13.png" alt="">
+                            <img src="images/13.png" alt="">
                             <div class="shakes">
                                 <h3><a href="#">Holyday Dessert protein shakes</a></h3>
                                 <h5>02/12/2019 -- 19:53</h5>
@@ -217,7 +217,7 @@
                 </div>
             </div>
             <div class="colum_right">
-                <img src="css/bai_tap_buoi_5/images/ads01.png" alt="ads">
+                <img src="images/ads01.png" alt="ads">
 <!--                <img src="./images/ads02.png" alt="ads">-->
 <!--                <img src="./images/ads02.png" alt="ads">-->
             </div>
@@ -225,7 +225,7 @@
     </div>
     <div class="container-full">
         <div class="logo-footer">
-            <img src="css/bai_tap_buoi_5/images/logo-footer.png" alt="">
+            <img src="images/logo-footer.png" alt="">
             <h5>Disclaimer: While we work to ensure that product information is correct, on occasion rmnanufacturers may alter their ingredient lists. Actual product packaging and materials may contain
                 more and/or different information than that shown on our Web site. We recommend that you do not solely rely on the information presented and that you always read labels, warnings,
                 and directions before using or consuming a product. For additional information about a product, please contact the manufacturer. Content on this site ¡s for reference purposes and is not
